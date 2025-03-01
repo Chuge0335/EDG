@@ -1,8 +1,8 @@
 # <img src="assets/logo.png" alt="Logo" width="20" height="20"> EDG (**E**xtrapolating and **D**ecoupling Image-to-Video **G**eneration)
 
-<div style="display: flex; justify-content: center;">
-  <img src="assets/edg.png" alt="Logo" width="300" height="128">
-</div>
+<p align="center">
+    <img src="assets/edg.png" width="400"/>
+<p>
 
 ## News
 [2025-03-01] 🎉 **Our paper "Extrapolating and Decoupling Image-to-Video Generation Models:
